@@ -1,0 +1,16 @@
+{
+    "Width": 70,
+    "Height": 70,
+
+    "Time": 60,
+
+    "DrunkAmount": 3,
+    "DrunkSteps": 450,
+    "DrunkTurnChance": 40,
+    "DrunkRoomChance": 10,
+
+    "PickableAmount": 6,
+    "PickableMinDistance": 16,
+
+    "Desc": "The default world. Balanced, ideally. Good for beginners"
+}

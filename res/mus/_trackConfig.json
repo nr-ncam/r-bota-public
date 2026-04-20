@@ -1,0 +1,14 @@
+{
+    "tracks": [
+        {
+            "filename": "fastrun.mp3",
+            "composer": "nr-ncam",
+            "enabled": false
+        },
+        {
+            "filename": "win95.mp3",
+            "composer": "nr-ncam",
+            "enabled": true
+        }
+    ]
+}

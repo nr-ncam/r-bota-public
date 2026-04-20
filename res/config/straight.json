@@ -1,0 +1,16 @@
+{
+    "Width": 90,
+    "Height": 90,
+
+    "Time": 75,
+
+    "DrunkAmount": 10,
+    "DrunkSteps": 160,
+    "DrunkTurnChance": 6,
+    "DrunkRoomChance": 5,
+
+    "PickableAmount": 8,
+    "PickableMinDistance": 24,
+
+    "Desc": "Overall stricter than default:\nPathways are much straighter and narrower\nMore objects to collect\nObjects are spread out more"
+}

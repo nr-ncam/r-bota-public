@@ -1,0 +1,18 @@
+{
+    "Width": 50,
+    "Height": 50,
+
+    "Time": 60,
+
+    "DrunkAmount": 20,
+    "DrunkSteps": 120,
+    "DrunkTurnChance": -1,
+    "DrunkRoomChance": 15,
+
+    "PickableAmount": 5,
+    "PickableMinDistance": 9,
+
+    "IsChaos": true,
+
+    "Desc": "EXPERIMENTAL:\nGenerator flips tiles instead of setting them to floor tiles\nSome seeds may be unplayable"
+}
