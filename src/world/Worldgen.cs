@@ -44,6 +44,7 @@ class Worldgen
 
         playerSpawnChance = 1f / worldConfig.DrunkAmount * 100f;
 
+        Game.pick_collected = 0;
         Game.pick_total = worldConfig.PickableAmount;
 
         curWorld = new World();
