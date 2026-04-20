@@ -23,7 +23,7 @@ public class WorldConfig
 
     public static WorldConfig FetchConfig(String _worldType)
     {
-        string bareText = File.ReadAllText($"res/config/{_worldType}.json");
+        string bareText = File.ReadAllText($"res/config/{_worldType.ToLower()}.json");
         return JsonSerializer.Deserialize<WorldConfig>(bareText);
     }
 }

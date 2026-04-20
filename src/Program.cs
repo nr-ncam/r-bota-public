@@ -10,7 +10,7 @@ namespace Rabota;
 /// </summary>
 class Program
 {
-    public const String version = "0.0.1";
+    public const String version = "0.0.2";
     static State state;
     static bool substateShouldClose = false;
     static event Action postSubstateClose;
